@@ -30,3 +30,18 @@ An e-commerce website built with React.js, offering users a smooth shopping expe
    ```bash
    git clone https://github.com/HajarZain222/E-Commerce-Website.git
 
+2. Navigate to the project directory:
+   cd e-commerce-website
+
+3. Install dependencies:
+   npm install
+   
+4. Start the development server:
+   npm start
+   Open your browser and visit https://e-commerce-website-online-shopping.vercel.app/
+
+Deployment
+This project is deployed on Vercel, and you can view the live version here: https://e-commerce-website-online-shopping.vercel.app/
+
+License
+This project is open-source and available under the MIT License.
